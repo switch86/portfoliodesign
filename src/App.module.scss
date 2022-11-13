@@ -29,9 +29,14 @@ a:visited,
 a:active {
     text-decoration: none;
 }
-
 img {
-    max-width: 100%;
+    max-width: 80%;
+    max-height: 30em;
+    border: gray solid 2px;
+    border-radius: 10px;
+    padding: .5em;
+    background-color: lightblue;
+    
 }
 
 ul {
